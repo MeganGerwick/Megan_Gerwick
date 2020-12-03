@@ -1,0 +1,5 @@
+#bannerimage {
+    width: 100%;
+    background-image: url("Images/Banner.png");
+    height: 300px;
+}
