@@ -3,3 +3,25 @@
     background-image: url("./Images/Banner.png");
     height: 300px;
 }
+
+.footer {
+    position: fixed; 
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    background-color: slategray;
+    margin-top: 20px;
+}
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#mywork {
+    margin-top: 20px;
+    margin-bottom: 150px;
+    padding: 20px;
+
+}
