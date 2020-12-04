@@ -26,3 +26,8 @@
 
 }
 
+#invisible {
+    width: 1px;
+    height: 1px;
+    text-indent: -9999px;
+}
