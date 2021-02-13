@@ -83,7 +83,11 @@ render() {
         <Row>
           {this.state.projects.map(project => (
             <ProjectCard
-
+              id={project.id}
+              key={project.id}
+              name={project.name}
+              image={project.image}
+              description={project.description}
             />
           ))}
         </Row>
