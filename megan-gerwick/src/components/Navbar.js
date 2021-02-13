@@ -1,5 +1,5 @@
 import { Navbar, Image, Nav } from 'react-bootstrap';
-import favicon from "./images/mgfavi.png";
+import favicon from "../images/mgfavi.png";
 
 export default function Navigation() {
     return (
@@ -10,9 +10,9 @@ export default function Navigation() {
 
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
-                <Nav.Link href="#About">About Me</Nav.Link>
-                <Nav.Link href="#Projects">Projects</Nav.Link>
-                <Nav.Link href="#Contact">Contact</Nav.Link>
+                <Nav.Link href="about">About Me</Nav.Link>
+                <Nav.Link href="projects">Projects</Nav.Link>
+                <Nav.Link href="contact">Contact</Nav.Link>
             </Navbar.Collapse>
         </Navbar>
     )
