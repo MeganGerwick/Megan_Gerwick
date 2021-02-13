@@ -1,37 +1,29 @@
 
 import './App.css';
 import React, { Component } from 'react';
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import { Container, Row, Col, Image, Button, Navbar, Nav, } from 'react-bootstrap';
 import Wrapper from './components/Wrapper';
-
-import about from "./images/mgabout.png";
-import skills from "./images/skills.png";
-import favicon from "./images/mgfavi.png";
-import projects from "./images/projects.png";
-import contact from "./images/contact.png";
-import ProjectCard from './components/Card';
-
-class App extends Component {
-  state = {
-    projects
-  };
+import ProjectPage from "./pages/projects";
+import AboutPage from "./pages/about";
+import ContactPage from "./pages/contact";
 
 
-  render() {
-    return (
+
+
+export default function App() {
+  return (
+    <Router>
+      <div>
+        <Navigation />
+      </div>
       <Wrapper>
-        <Header />
-        <Navbar />
+        <Route exact path="/" component={AboutPage} />
+        <Route exact path="/about" component={AboutPage} />
+        <Route exact path="/projects" component={ProjectPage} />
+        <Route exact path="/contact" component={ContactPage} />
 
-        <Row>
-          <Col sm={10}>
-            <Image className="center" src={skills} alt="logo" height={50} width={200} fluid />
-          </Col>
-        </Row>
-        
-        </Container>
-      </Wrapper >
-    )
-  };
+      </Wrapper>
+    </Router>
+  )
 };
-export default App;
