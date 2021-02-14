@@ -1,9 +1,10 @@
 import { Navbar, Image, Nav } from 'react-bootstrap';
 import favicon from "../images/mgfavi.png";
 
+
 export default function Navigation() {
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="white" expand="lg">
             <Navbar.Brand href="#home">
                 <Image src={favicon} width={50} height={50} />
   Megan Gerwick</Navbar.Brand>

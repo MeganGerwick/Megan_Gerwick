@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+p {
+  color: #2c1183;
+}
+
+.center {
+  align-items: center;
+}
+
+div {
+background-color: azure;
+}
+
+.buttonrow {
+  align-content: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+

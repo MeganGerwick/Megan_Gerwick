@@ -1,12 +1,37 @@
 [
     {
         "id": 1,
-        "name": "",
-        "image": "",
-        "link": "",
-        "description": ""
+        "key": 1,
+        "name": "Discomfort Zone",
+        "image": "https://imgur.com/a/o0OaObP",
+        "shot1": "",
+        "shot2": "",
+        "github": "",
+        "demo": "",
+        "description": "This site was developed as a group project. It is designed to encourage consumers to travel outside of their usual restaurants."
     },
     {
-        
+        "id": 2,
+        "key": 2,
+        "name": "MyStream",
+        "image": "./images/mystream.PNG",
+        "shot1": "./images/MyStream1.PNG",
+        "shot2": "",
+        "github": "",
+        "demo": "",
+        "description": "My Stream is an app to store a consoidated watch ist for movies avaiable on all rental services. It also allows you to track the movies you have already watched."
+    },
+    {
+        "id": 3,
+        "key": 3,
+        "name": "Weather Dashboard",
+        "image": "",
+        "shot1": "",
+        "shot2": "",
+        "github": "",
+        "demo": "",
+        "description": "This site is a weather dashboard that allows users to search for the weather in any US city. The user will input the city name into the search bar and the current weather will be displayed, along with weather for the next five days. The site also stores the user's searches locally, allowing them to easily view their past searches again."
     }
 ]
+
+

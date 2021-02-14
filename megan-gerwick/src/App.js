@@ -6,12 +6,13 @@ import Wrapper from './components/Wrapper';
 import ProjectPage from "./pages/projects";
 import AboutPage from "./pages/about";
 import ContactPage from "./pages/contact";
-import Navigation from "./components/Navbar";
+import "./App.css";
 
 
 
 
-export default function App() {
+
+export default function App(props) {
   return (
     <Router>
       <Wrapper>
