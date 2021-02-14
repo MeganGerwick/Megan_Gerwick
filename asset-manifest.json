@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MeganGerwick/Megan_Gerwick/static/css/main.48c37c4f.chunk.css",
+    "main.js": "/MeganGerwick/Megan_Gerwick/static/js/main.207c7e43.chunk.js",
+    "main.js.map": "/MeganGerwick/Megan_Gerwick/static/js/main.207c7e43.chunk.js.map",
+    "runtime-main.js": "/MeganGerwick/Megan_Gerwick/static/js/runtime-main.ee63bd77.js",
+    "runtime-main.js.map": "/MeganGerwick/Megan_Gerwick/static/js/runtime-main.ee63bd77.js.map",
+    "static/css/2.150d169a.chunk.css": "/MeganGerwick/Megan_Gerwick/static/css/2.150d169a.chunk.css",
+    "static/js/2.1b49a170.chunk.js": "/MeganGerwick/Megan_Gerwick/static/js/2.1b49a170.chunk.js",
+    "static/js/2.1b49a170.chunk.js.map": "/MeganGerwick/Megan_Gerwick/static/js/2.1b49a170.chunk.js.map",
+    "static/js/3.b9d1bfa3.chunk.js": "/MeganGerwick/Megan_Gerwick/static/js/3.b9d1bfa3.chunk.js",
+    "static/js/3.b9d1bfa3.chunk.js.map": "/MeganGerwick/Megan_Gerwick/static/js/3.b9d1bfa3.chunk.js.map",
+    "index.html": "/MeganGerwick/Megan_Gerwick/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/MeganGerwick/Megan_Gerwick/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.48c37c4f.chunk.css.map": "/MeganGerwick/Megan_Gerwick/static/css/main.48c37c4f.chunk.css.map",
+    "static/js/2.1b49a170.chunk.js.LICENSE.txt": "/MeganGerwick/Megan_Gerwick/static/js/2.1b49a170.chunk.js.LICENSE.txt",
+    "static/media/contact.39161558.png": "/MeganGerwick/Megan_Gerwick/static/media/contact.39161558.png",
+    "static/media/headerlogo.6f2aad9d.png": "/MeganGerwick/Megan_Gerwick/static/media/headerlogo.6f2aad9d.png",
+    "static/media/mgabout.c4b1f712.png": "/MeganGerwick/Megan_Gerwick/static/media/mgabout.c4b1f712.png",
+    "static/media/mgfavi.dddfcbbb.png": "/MeganGerwick/Megan_Gerwick/static/media/mgfavi.dddfcbbb.png",
+    "static/media/profilepic.5016f82b.jpg": "/MeganGerwick/Megan_Gerwick/static/media/profilepic.5016f82b.jpg",
+    "static/media/projects.7cb7c7cb.png": "/MeganGerwick/Megan_Gerwick/static/media/projects.7cb7c7cb.png",
+    "static/media/skills.256e63a5.png": "/MeganGerwick/Megan_Gerwick/static/media/skills.256e63a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee63bd77.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.1b49a170.chunk.js",
+    "static/css/main.48c37c4f.chunk.css",
+    "static/js/main.207c7e43.chunk.js"
+  ]
+}
