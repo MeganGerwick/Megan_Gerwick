@@ -1,0 +1,33 @@
+#bannerimage {
+    width: 100%;
+    background-image: url("./Images/Banner.png");
+    height: 300px;
+}
+
+.footer {
+    position: fixed; 
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    background-color: slategray;
+    margin-top: 20px;
+}
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#pagebottom {
+    margin-top: 20px;
+    margin-bottom: 150px;
+    padding: 20px;
+
+}
+
+#invisible {
+    width: 1px;
+    height: 1px;
+    text-indent: -9999px;
+}
